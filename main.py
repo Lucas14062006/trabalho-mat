@@ -1,4 +1,8 @@
-arquivo= 'oi.txt'  # Substitua pelo arquivo psorrrr, te amo ta 
+arquivo= 'exOriginal.txt'  # Substitua pelo arquivo psorrrr, te amo ta 
+##arquivo= 'ex1.txt'  # Substitua pelo arquivo psorrrr, te amo ta 
+##arquivo= 'ex2.txt'  # Substitua pelo arquivo psorrrr, te amo ta 
+##arquivo= 'ex3.txt'  # Substitua pelo arquivo psorrrr, te amo ta 
+
 resultado = []
 def formatar_resposta(resposta):
   resposta = resposta.replace('[', '{')
